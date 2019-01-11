@@ -104,7 +104,7 @@ Please use the workshop id [ workshop_id in form of YYYY-MM-DD-sitename ]
 
 [ host_first_name ], if you want to handle registration internally that's fine. Otherwise [ admin_name ] can work with you to create an Eventbrite registration page. She will need to know a total count, the registration fee (if any, as well as a refund policy), and the exact location. Regardless, all learners should complete pre/post workshop surveys which will be available on the webpage the instructors create.  [ admin_name ] will share links so you all can view survey results.
 
-[ admin_name ] will check in over the next few weeks and after it's all over to hear how it went -- including getting attendance figures, ideally broken out by number registered and number attended each day. Any of you are also welcome to join our instructor discussion sessions before and/or after the workshop. It's a great way to ask questions and share ideas with other instructors before you teach, and to give us feedback after you teach. Check out the schedule and sign up here: http://pad.software-carpentry.org/instructor-discussion
+[ admin_name ] will check in over the next few weeks and after it's all over to hear how it went -- including getting attendance figures, ideally broken out by number registered and number attended each day. Any of you are also welcome to join our instructor discussion sessions before and/or after the workshop. It's a great way to ask questions and share ideas with other instructors before you teach, and to give us feedback after you teach. Check out the schedule and sign up here: https://pad.carpentries.org/community-discussions
 
 We are so glad to have everyone confirmed for this. Please email any questions you all may have for us or each other.  
 
