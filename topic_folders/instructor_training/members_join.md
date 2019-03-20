@@ -8,14 +8,26 @@ The Program Manager will [share information](email_templates_admin.html#member-t
 
 ### Host Checklist
 
-Our training events are typically offered using the Zoom videoconferencing platform.
+Our training events are offered either in-person or using the Zoom videoconferencing platform.
 
-Before the event, the Workshop Administration Team will be in touch with the host site to set a test run of the Zoom videoconferencing set up. For the test run, the host should:
+## Online Events 
+
+Online events are taught by two or more of our qualified Instructor Trainers using the Zoom videoconferencing tool. Before the event, the Workshop Administration Team will be in touch with the host site to set a test run of the Zoom videoconferencing set up. For the test run, the host should:
 
 * be in the same room as the event itself
 * use the same equipment (computer, projector, speakers, microphone) as the event itself
 * make sure people in the room can see and hear the person on the screen
 * make sure the person on the screen can see and hear all participants
+
+## In-Person Events
+
+In person events are taught by two insructor trainers traveling to the host's site to deliver an in-person Instructor Training event. 
+
+* Workshop administrators will introduce the Instructor Trainers to the host
+* Work with Trainers to arrange any travel and accomodation needs
+* Ensure your venue conforms to the [workshop and venue guidelines](https://docs.carpentries.org/topic_folders/hosts_instructors/workshop_needs.html#venue)
+
+## All events 
 
 Other things to be set up for the event include:
 * Reminding participants of the pre-reading material that was shared by the Program Manager
