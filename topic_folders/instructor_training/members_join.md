@@ -12,18 +12,15 @@ Our training events are offered either in-person or using the Zoom videoconferen
 
 ## Online Events 
 
-Online events are taught by two or more of our qualified Instructor Trainers using the Zoom videoconferencing tool. Before the event, the Workshop Administration Team will be in touch with the host site to set a test run of the Zoom videoconferencing set up. For the test run, the host should:
+Online events are taught by two or more of our qualified Instructor Trainers using the Zoom videoconferencing tool. No log in is needed, but you may need to install a browser extension. Access to the training will be provided by the Administriation Team. All participants are required to have their own laptop and earbuds/headphones. Some participants may be attending the training in the same room. If this is the case, please be sure that everyone is wearing their earbuds/headphones and are muted at all times when not speaking.
 
-* be in the same room as the event itself
-* use the same equipment (computer, projector, speakers, microphone) as the event itself
-* make sure people in the room can see and hear the person on the screen
-* make sure the person on the screen can see and hear all participants
+You can read more about how to use Zoom [here](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html?highlight=zoom#zoom-manual-online-trainings).
 
 ## In-Person Events
 
 In person events are taught by two insructor trainers traveling to the host's site to deliver an in-person Instructor Training event. 
 
-* Workshop administrators will introduce the Instructor Trainers to the host
+* The Administration Team will introduce the Instructor Trainers to the host
 * Work with Trainers to arrange any travel and accomodation needs
 * Ensure your venue conforms to the [workshop and venue guidelines](https://docs.carpentries.org/topic_folders/hosts_instructors/workshop_needs.html#venue)
 
