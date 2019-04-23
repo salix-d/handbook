@@ -280,6 +280,8 @@ If the person processing the invoice is someone other than you, it is probably b
 
 Please feel free to work with Talisha directly. Talisha will take care of all of the billing from here. As always, please feel free to let me know if you have any questions or concerns regarding workshop logistics. 
 
+@Talisha This is for WORKSHOP-SLUG 
+
 Best, 
 
 [Sender]
@@ -302,6 +304,7 @@ Eventbrite revenue is received by us 5-7 days after the event registration close
 
 Please feel free to work with Talisha directly. Talisha will take care of all of getting you the Eventbrite funds. As always, please feel free to let me know if you have any questions or concerns regarding workshop logistics. 
 
+@Talisha This is for WORKSHOP-SLUG : [PROVIDE TALISHA SHORT DESCRIPTION OF WORKSHOP, I.E. BILLING AMOUNT, WHETHER OR NOT THEY WILL HAVE EVENTBRITE, ANY OTHER INFORMATION YOU HAVE RELEVANT TO BILLING - INCLUDE ]
 Best, 
 
 [Sender]
