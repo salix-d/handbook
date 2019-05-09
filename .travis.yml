@@ -1,0 +1,21 @@
+language: python
+sudo: required
+dist: trusty
+os: linux
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  local-dir: _build/html
+  verbose: true # FIXME: just at first to see logs
+  on:
+    branch: master
+
+install:
+  # Add CI-helpers and install the dependencies we need from them.
+  - pip3 install -r requirements.txt
+
+script:
+  - make html
