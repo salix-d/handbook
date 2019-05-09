@@ -46,7 +46,7 @@ msgstr ""
 "`Las Carpentries <https://carpentries.org/>`_ enseña habilidades básicas en "
 "programación y análisis de datos a investigadores de todo el mundo. Los "
 "talleres de Software Carpentry, Data Carpentry, and Library Carpentry están "
-"basados en nuestras leccions. Organisadores, instructores y aprendices en "
+"basados en nuestras lecciones. Organisadores, instructores y aprendices en "
 "dichos talleres deben de seguir nuestro `Código de conducta </es/"
 "topic_folders/policies/code-of-conduct.html>`_"
 
