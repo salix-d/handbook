@@ -215,3 +215,8 @@ texinfo_documents = [
 
 
 
+# -- Options for translations --------------------------------------------
+locale_dirs = ['../locale/']
+gettext_compact = False
+
+from sphinx import addnodes  # noqa
